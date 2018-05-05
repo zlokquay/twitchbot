@@ -1,5 +1,7 @@
 !README! (V1.0.2)
 
+EDIT - CURRENTLY ONLY WORKS FOR CHANNEL `Fenyan`, PLEASE MESSAGE ME FOR ASSISTANCE
+
 INSTALLATION
 
 Please download and install the latest version of node and follow it's instructions at https://nodejs.org/en/
