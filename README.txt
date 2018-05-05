@@ -1,4 +1,4 @@
-!README! (V1.0.2)
+!README! (V1.0.2.2)
 
 EDIT - CURRENTLY ONLY WORKS FOR CHANNEL `Fenyan`, PLEASE MESSAGE ME FOR ASSISTANCE
 
@@ -7,6 +7,8 @@ INSTALLATION
 Please download and install the latest version of node and follow it's instructions at https://nodejs.org/en/
 
 Clone the files from GitHub and after node is installed, run start.bat to open the bot.
+
+MESSAGE ME ON DISCORD FOR PASSWORD TO ALLOW BOT TO WORK
 
 --------
 OoTBingoBot is a simple bot to allow the user to set a bingo board and users to see the url for that bingo board.
