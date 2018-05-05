@@ -1,4 +1,11 @@
-!README! (V1.0.0)
+!README! (V1.0.2)
+
+INSTALLATION
+
+Please download and install the latest version of node and follow it's instructions at https://nodejs.org/en/
+
+Clone the files from GitHub and after node is installed, run start.bat to open the bot.
+
 --------
 OoTBingoBot is a simple bot to allow the user to set a bingo board and users to see the url for that bingo board.
 --------
