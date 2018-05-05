@@ -16,7 +16,7 @@ var options = {
 	},
 	identity:{
 		username: "OoTBingoBot",
-		password: "oauth:hqeiowqb7dy6mpfaodic0gygz7dvpn"
+		password: "HIDDEN"
 	},
 	channels:["Fenyan"]
 };
