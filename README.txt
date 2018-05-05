@@ -6,7 +6,11 @@ INSTALLATION
 
 Please download and install the latest version of node and follow it's instructions at https://nodejs.org/en/
 
-Clone the files from GitHub and after node is installed, run start.bat to open the bot.
+Clone the files from GitHub after node is installed.
+
+Afterwards, open a command prompt and find the directory your bot files are in. Run the command "npm install" (no quotes)
+
+Run start.bat to open the bot.
 
 MESSAGE ME ON DISCORD FOR PASSWORD TO ALLOW BOT TO WORK
 
